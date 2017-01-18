@@ -2084,7 +2084,7 @@ The configuration dialog will be shown now, so you can do it.</source>
     <message>
         <location filename="../baseguiplus.cpp" line="986"/>
         <source>&amp;Default audio device</source>
-        <translation type="unfinished"/>
+        <translation>&amp;默认音频设备</translation>
     </message>
     <message>
         <location filename="../baseguiplus.cpp" line="305"/>
